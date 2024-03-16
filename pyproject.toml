@@ -16,6 +16,7 @@ onnxruntime = "^1.17.1"
 flashlight-text = "^0.0.6"
 pandas = "^2.2.1"
 matplotlib = "^3.8.3"
+seaborn = "^0.13.2"
 
 
 [build-system]
